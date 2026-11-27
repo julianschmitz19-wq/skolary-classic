@@ -95,6 +95,6 @@ Rechnerische Orientierung, keine verbindliche Zeugnisnote und keine offizielle S
 
 ## Lizenz
 
-Eigener Quellcode unter der [PolyForm Noncommercial License 1.0.0](LICENSE) (Source-Available, keine OSI-Open-Source-Lizenz). Frühere Veröffentlichungen werden nicht mehr angeboten; bereits wirksam erteilte Rechte bleiben unberührt. Drittkomponenten behalten ihre jeweiligen Lizenzen (Streamlit: Apache-2.0; pandas: BSD-3-Clause). JStudios behält sich vor, Nutzungen außerhalb der geltenden Lizenz und gesetzlicher Erlaubnisse rechtlich zu verfolgen. Gesonderte kommerzielle Nutzungsrechte: [jstudios.development@gmail.com](mailto:jstudios.development@gmail.com).
+Du kannst dieses historische Lernprojekt im Rahmen der [PolyForm Noncommercial License 1.0.0](LICENSE) nutzen, den Quellcode nachvollziehen, daraus lernen und ihn entsprechend der Lizenz verändern oder weitergeben. Das Projekt ist Source-Available, nicht OSI-Open-Source. Bereits wirksam gewährte Rechte bleiben unberührt. Drittkomponenten behalten ihre jeweiligen Lizenzen (Streamlit: Apache-2.0; pandas: BSD-3-Clause). Alle nicht eingeräumten Rechte bleiben den jeweiligen Rechteinhabern vorbehalten. Für eine Nutzung außerhalb der bestehenden Lizenz, etwa für nicht abgedeckte kommerzielle Zwecke, kannst du JStudios kontaktieren: [jstudios.development@gmail.com](mailto:jstudios.development@gmail.com).
 
 © 2026 Julian Schmitz / JStudios
